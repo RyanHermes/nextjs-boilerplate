@@ -42,7 +42,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://www.linkedin.com/in/ryanhermes/"  // Placeholder LinkedIn link
+          href="https://www.linkedin.com/in/abboudy-ryan-hermes-06a7b51b5/"  // Placeholder LinkedIn link
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100"
           target="_blank"
           rel="noopener noreferrer"
