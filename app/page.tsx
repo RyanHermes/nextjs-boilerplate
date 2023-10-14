@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex flex-col items-center justify-between p-24 min-h-screen">
       <div className="max-w-5xl w-full text-center font-mono text-lg mb-10">
         <p className="mb-6">
-          Hello! I'm Ryan Hermes, a software engineer passionate about building meaningful and impactful technology.
+          Hello! I&apos;m Ryan Hermes, a software engineer passionate about building meaningful and impactful technology.
         </p>
         <p>
           Explore my projects and get in touch if you want to collaborate!
